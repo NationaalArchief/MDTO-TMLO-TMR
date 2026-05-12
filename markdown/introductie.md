@@ -1,5 +1,3 @@
 # Introductie
 
-Beschrijf in deze sectie de context en het doel van dit kennisproduct. Leg uit waarom dit document is opgesteld, voor wie het bedoeld is en welk probleem of vraagstuk centraal staat.
-
-Geef daarnaast een korte toelichting op de inhoud en opbouw van het document, zodat de lezer weet wat hij of zij kan verwachten.
+Onderstaand overzicht geeft een vertaling van de bestaande TMLO- en TMR-elementen naar de corresponderende MDTO-attributen. Vanwege verschillen in structuur, terminologie en toepassingsbereik is een volledige 1-op-1 vertaling niet altijd mogelijk. In die gevallen is gekozen voor de best passende interpretatie binnen het MDTO-model. Daarnaast biedt dit overzicht inzicht in de belangrijkste wijzigingen ten opzichte van TMLO en TMR.

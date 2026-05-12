@@ -1,10 +1,7 @@
-In deze sectie geef je een beknopt overzicht van de belangrijkste inhoud van dit document. Beschrijf in hoofdlijnen wat het doel is, welke inzichten of resultaten centraal staan en wat de lezer moet onthouden.
+MDTO biedt een vertaling van bestaande TMLO- en TMR-elementen naar een vernieuwd metagegevensmodel voor duurzaam toegankelijke overheidsinformatie. Door verschillen in structuur, terminologie en toepassingsbereik is een volledige 1-op-1 mapping niet altijd mogelijk. Waar nodig is gekozen voor de best passende interpretatie binnen MDTO.
 
-Houd de samenvatting kort en krachtig, zodat deze snel te lezen is en een goed beeld geeft van de rest van het document.
+Ten opzichte van TMLO en TMR introduceert MDTO diverse veranderingen. Zo is het model breder toepasbaar voor alle overheidsorganisaties en sluit de terminologie beter aan op moderne informatiesystemen. Daarnaast is de specificatie duidelijker en overzichtelijker ingericht, met meer voorbeelden en minder dubbelzinnigheden.
 
-**Wat opnemen in de samenvatting**
+MDTO bestaat bovendien uit meerdere modules, waaronder een metagegevensschema, XML-schema, begrippenlijsten en een SIP-specificatie voor gestandaardiseerde uitwisseling. Ook zijn verplichtingsniveaus vereenvoudigd en biedt MDTO meer ruimte voor organisatiespecifieke metadata, eigen aggregatieniveaus en aanvullende gebruiksbeperkingen.
 
-- Het doel van het kennisproduct
-- De belangrijkste onderwerpen of thema’s
-- Belangrijke conclusies of inzichten
-- Eventuele aanbevelingen
+Verder ondersteunt MDTO betere vastlegging van relaties, betrokkenen, bewaartermijnen en integriteitsinformatie. De publicatie als webomgeving maakt het eenvoudiger om wijzigingen, uitbreidingen en toelichtingen door te voeren en toegankelijk beschikbaar te stellen.
